@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1Take2</string>
+    <string name="breakfast">Breakfast </string>
+    <string name="lunch">Lunch </string>
+    <string name="dinner">Dinner </string>
+    <string name="title_activity_dinner">DinnerActivity</string>
+</resources>
